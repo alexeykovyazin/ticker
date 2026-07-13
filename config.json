@@ -1,0 +1,16 @@
+{
+  "host": "127.0.0.1",
+  "port": 3053,
+  "database": "C:/HQbird/Firebird30/examples/empbuild/EMPLOYEE.FDB",
+  "user": "SYSDBA",
+  "password": "masterkey",
+  "table": "TICKS",
+  "column": "TICK",
+  "interval_ms": 1000,
+  "service": {
+    "name": "Ticker",
+    "display_name": "Ticker",
+    "description": "Inserts timestamps into Firebird at a fixed interval"
+  }
+}
+

@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Firebird databases
+*.fdb
+*.gdb
+
+# Go
+/bin/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
